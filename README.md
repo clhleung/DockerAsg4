@@ -2,7 +2,8 @@
 
 This README is for HW 4. Group members: Clement Leung, Jian Hao Miao
 
-
+The main purpose of this assignment was make a kvs service that was not only scalable, but also fault-tolerant. Two simple things that
+anyone can understand, yet 2 things that were also difficult to implement right. 
 
 ### How did we approached the assignement? ###
 
